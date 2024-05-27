@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8565F7&random=false&width=435&lines=Hello!+I'm+Ellabox)](https://git.io/typing-svg)
-<!--
 
 ##
 
@@ -14,4 +13,3 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ELLABOXS)
 
 
--->
