@@ -5,7 +5,7 @@
 *she/her*
 - 🌱 Little Gnome Games
 - 🖌️ I'm studying Computer Animation 
-- 📫 Contact me: ellaboxtv@gmail.
+- 📫 Contact me: (ellaboxtv@gmail)
 
 ## Find me here :3
 
